@@ -1,2 +1,2 @@
 # Unes.udemy
-Projeto referente ao meu curso feita na Udemy
+Aqui está minha trajetória pelo curso Desenvolvimento Web Completo pelo programador Jorge Sant Ana.
